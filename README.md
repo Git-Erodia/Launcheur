@@ -17,6 +17,7 @@ Il permet de gérer la partie client plus facilement, il est possible simplement
 - Interface customisable utilisant l'API Fyne (v2)
 - Vérification du jeu, check si le jeu et ouvert ou non.
 - Options de mods, facilement ajoutable et customisable.
+- RPC (Discord Rich Presence)
 
 ## Feedback
 
